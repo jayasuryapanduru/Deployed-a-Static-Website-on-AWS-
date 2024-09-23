@@ -29,9 +29,9 @@ Go to Permissions Tab and update Public Access Setting:
 
 Uncheck Manage public bucket policies:
 
-. Uncheck - Block new public bucket policies (Recommended)
+**->** Uncheck - Block new public bucket policies (Recommended)
 
-. Uncheck - Block public and cross-account access if bucket has public policies (Recommended)
+**->** Uncheck - Block public and cross-account access if bucket has public policies (Recommended)
 
 # Step 4 - Enable Website Hosting
 
@@ -52,6 +52,7 @@ Here are some of the advantages of hosting site on S3
 
 **Performance**: The website will be highly performant and scalable at a fraction of the cost of a traditional Web server.
 
-**Scalability:** Amazon S3 is inherently scalable. For popular websites, the Amazon S3 architecture will scale seamlessly to serve thousands of HTTP requests per second without any changes to the architecture.
+**Scalability:** Amazon S3 is inherently scalable. For popular websites, the Amazon S3 architecture will scale seamlessly to serve thousands of 
+                 HTTP requests per second without any changes to the architecture.
 
 **Availability:** In addition, by hosting with Amazon S3, the website is inherently highly available.
