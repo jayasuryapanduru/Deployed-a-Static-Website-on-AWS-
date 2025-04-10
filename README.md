@@ -44,9 +44,6 @@ Note the endpoint. http://{bucket-name}.s3-website-{AWS-Region}.amazonaws.com
 # Step 5 - Access Your Website (Testing/Validation)
 Access the site in browser: http://{bucket-name}.s3-website-{AWS-Region}.amazonaws.com
 
-For Example: http://jayasuryapanduru1.click.s3-website.ap-south-1.amazonaws.com/
-
-
 ## Advantages of Hosting Website on S3
 Here are some of the advantages of hosting site on S3
 
